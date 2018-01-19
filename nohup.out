@@ -1,0 +1,37 @@
+[I 07:24:57.077 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 07:25:11.083 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 07:25:11.417 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.8
+[I 07:25:11.682 NotebookApp] JupyterLab alpha preview extension loaded from /home/deeplearning1611/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 07:25:11.682 NotebookApp] JupyterLab application directory is /home/deeplearning1611/anaconda3/share/jupyter/lab
+[I 07:25:11.744 NotebookApp] Serving notebooks from local directory: /home/deeplearning1611/Dropbox/GCP/github/flask-app
+[I 07:25:11.744 NotebookApp] 0 active kernels
+[I 07:25:11.744 NotebookApp] The Jupyter Notebook is running at:
+[I 07:25:11.744 NotebookApp] http://[all ip addresses on your system]:8888/?token=...
+[I 07:25:11.744 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:25:27.389 NotebookApp] 302 GET / (106.51.23.254) 0.59ms
+[I 07:25:27.650 NotebookApp] 302 GET /tree? (106.51.23.254) 1.28ms
+[I 07:25:32.934 NotebookApp] 302 POST /login?next=%2Ftree%3F (106.51.23.254) 1.70ms
+[W 07:52:31.766 NotebookApp] 404 GET /files/Ex_Files_Learning_Flask/section-2/templates/%7B%7B%20url_for('static',%20filename='css/main.css')%20%7D%7D (106.51.23.254) 27.77ms referer=None
+[C 07:55:26.908 NotebookApp] received signal 15, stopping
+[I 07:55:26.909 NotebookApp] Shutting down 0 kernels
+[I 08:31:47.053 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 08:31:58.881 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 08:31:59.128 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.8
+[I 08:31:59.459 NotebookApp] JupyterLab alpha preview extension loaded from /home/deeplearning1611/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 08:31:59.459 NotebookApp] JupyterLab application directory is /home/deeplearning1611/anaconda3/share/jupyter/lab
+[I 08:31:59.541 NotebookApp] Serving notebooks from local directory: /home/deeplearning1611/Dropbox/GCP/github/flask-app
+[I 08:31:59.542 NotebookApp] 0 active kernels
+[I 08:31:59.542 NotebookApp] The Jupyter Notebook is running at:
+[I 08:31:59.542 NotebookApp] http://[all ip addresses on your system]:8888/?token=...
+[I 08:31:59.542 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:32:02.680 NotebookApp] 302 GET / (106.51.23.254) 0.62ms
+[I 08:32:02.923 NotebookApp] 302 GET /tree? (106.51.23.254) 1.34ms
+[I 08:32:25.881 NotebookApp] 302 POST /login?next=%2Ftree%3F (106.51.23.254) 1.22ms
+[I 08:33:12.361 NotebookApp] Uploading file to /templates/layout.html
+[I 08:33:13.960 NotebookApp] Uploading file to /templates/about.html
+[I 08:33:14.688 NotebookApp] Uploading file to /templates/index.html
+[I 08:34:39.763 NotebookApp] Uploading file to /static/css/main.css
+[I 08:34:51.617 NotebookApp] Uploading file to /static/img/device.png
+[I 08:35:25.394 NotebookApp] Saving file at /routes.py
+[I 08:35:50.347 NotebookApp] Saving file at /routes.py
+[I 08:36:27.619 NotebookApp] Saving file at /routes.py
